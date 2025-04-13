@@ -71,6 +71,7 @@ namespace HRManagementMVC
                                     Console.WriteLine($"EmployeeID: {employeeList.EmployeeID} \nEmployee name: {employeeList.EmployeeName} \nEmployee gender: {employeeList.Gender} \nEmployee age: " +
                                      $"{employeeList.Age} \nEmployee address: {employeeList.Address} \nEmployee position: {employeeList.Position}\n" +
                                      $"Employee rank: {employeeList.Rank} \nEmployee salary: {employeeList.Salary}");
+                                    Console.WriteLine("--------------------------------");
                                 }
                             }
                             break;
